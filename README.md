@@ -1,6 +1,6 @@
 # TramController
 # Submitted to : Prof. G. Wainer
-# Made by: Navneet Kaushal, Vithika Joshi
+# Author: Navneet Kaushal, Vithika Joshi
 # SYSC 5104, Fall 2018
 
 This project is DEMES based Real Time modeling and working of a Tram Controller. In which, inner passengers can request stops using IR sensors, 
